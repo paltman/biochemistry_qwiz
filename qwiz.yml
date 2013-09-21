@@ -1,0 +1,23 @@
+-
+    title: "3-Letter Amino Acid Abbreviations"
+    description: "shown an amino acid name, pick its 3-letter abbreviation"
+    file: "amino_acids.csv"
+    front: "Amino Acid"
+    back: "3-Letter"
+-
+    title: "1-Letter Amino Acid Abbreviations"
+    description: "shown an amino acid name, pick its 1-letter abbreviation"
+    file: "amino_acids.csv"
+    front: "Amino Acid"
+-
+    title: "Amino Acid Side-chain polarity"
+    description: "shown an amino acid name, pick its side-chain polarity"
+    file: "amino_acids.csv"
+    front: "Amino Acid"
+    back: "Side-chain polarity"
+-
+    title: "Amino Acid Side-chain polarity"
+    description: "shown a side-chain polarity, pick a 1-letter amino acid symbol with that polarity"
+    file: "amino_acids.csv"
+    front: "Side-chain polarity"
+    back: "1-Letter"
