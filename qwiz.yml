@@ -9,6 +9,7 @@
     description: "shown an amino acid name, pick its 1-letter abbreviation"
     file: "amino_acids.csv"
     front: "Amino Acid"
+    back: "1-Letter"
 -
     title: "Amino Acid Side-chain polarity"
     description: "shown an amino acid name, pick its side-chain polarity"
