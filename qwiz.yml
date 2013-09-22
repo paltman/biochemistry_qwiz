@@ -17,7 +17,7 @@
     front: "Amino Acid"
     back: "Side-chain polarity"
 -
-    title: "Amino Acid Side-chain polarity"
+    title: "1-Letter Amino Acid Side-chain polarity"
     description: "shown a side-chain polarity, pick a 1-letter amino acid symbol with that polarity"
     file: "amino_acids.csv"
     front: "Side-chain polarity"
