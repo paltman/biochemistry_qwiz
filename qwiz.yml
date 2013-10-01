@@ -27,3 +27,8 @@
     file: "amino_acids.csv"
     front: "Side-chain polarity"
     back: "3-Letter"
+- title: "Another dummy quize"
+  description: "boo"
+  file: "dummy.csv"
+  front: "front"
+  back: "back"
