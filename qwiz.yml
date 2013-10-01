@@ -27,3 +27,4 @@
     description: "blah blah"
     file: "amino_acids.csv"
     front: "Side-chain polarity"
+    back: "3-Letter"
